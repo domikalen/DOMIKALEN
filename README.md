@@ -1,5 +1,4 @@
-# Hi there 👋
-
+- 👋 Hi, I’m Damir Alenov
 - 🎓 I’m currently a fourth-year BSc Computer Science student at FIT CTU in Prague.  
 - 💻 I’m deepening my skills in TypeScript and web back-end development (Python/FastAPI, PHP/Symfony).  
 - 🐳 I’m currently working on a web application for an oil & gas company, building REST APIs and optimizing database performance.  
