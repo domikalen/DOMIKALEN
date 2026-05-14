@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Damir Alenov
-- 🎓 I’m currently a fourth-year BSc Computer Science student at FIT CTU in Prague.  
-- 💻 I’m deepening my skills in JavaScript and web back-end development (Python/FastAPI, PHP/Symfony).  
-- 🐳 I’m currently working on a web application for an oil & gas company, building REST APIs and optimizing database performance.  
-- 🚀 I’m looking to collaborate on open-source projects around backend services, automation, and data systems.  
-- 📫 How to reach me:  
-  - LinkedIn: [domikalen](https://www.linkedin.com/in/domikalen/)  
-  - Email: damir.alenov02@gmail.com  
+- 💼 I’m a Data Engineer at Adastra, based in Prague.
+- 🧱 I build data platforms, lakehouse pipelines, and production-grade data workflows.
+- ⚙️ My current stack includes Databricks, PySpark, Delta Lake, SQL, Python, Terraform, GitLab CI/CD, and cloud data platform services.
+- 🚀 I’ve worked on an internal AI/data platform for automated job–candidate matching, covering ingestion, transformation, orchestration, governance, and deployment.
+- 🏗️ I’m currently expanding my expertise in AWS data platforms, Apache Iceberg, Snowflake, Airflow, data quality, governance, and AI-enabled data access patterns.
+- 🤖 I’m especially interested in AI Data Engineering, MCP/RAG systems, entitlement-aware data access, financial data platforms, and market data analytics.
+- 📫 How to reach me:
+  - LinkedIn: [domikalen](https://www.linkedin.com/in/domikalen/)
+  - Email: damir.alenov02@gmail.com
