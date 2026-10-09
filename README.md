@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Damir Alenov
+- 👋 Hi, I’m Damir Alenov.
 - 💼 I’m a Data Engineer at Adastra, based in Prague.
-- 🧱 I build data platforms, lakehouse pipelines, and production-grade data workflows.
-- ⚙️ My current stack includes Databricks, PySpark, Delta Lake, SQL, Python, Terraform, GitLab CI/CD, and cloud data platform services.
-- 🚀 I’ve worked on an internal AI/data platform for automated job–candidate matching, covering ingestion, transformation, orchestration, governance, and deployment.
-- 🏗️ I’m currently expanding my expertise in AWS data platforms, Apache Iceberg, Snowflake, Airflow, data quality, governance, and AI-enabled data access patterns.
-- 🤖 I’m especially interested in AI Data Engineering, MCP/RAG systems, entitlement-aware data access, financial data platforms, and market data analytics.
+- 🏗️ I work on enterprise data platforms, data migration projects, and production-grade data pipelines across modern and legacy data environments.
+- ⚙️ My current stack includes Python, PySpark, SQL, Databricks, Hadoop, Trino, BigQuery, GCP, AWS, Azure, Git, CI/CD, and cloud data platform services.
+- 🧩 I regularly work with large datasets, distributed processing, data validation, troubleshooting, and cross-platform data dependencies.
+- 🖥️ My work also includes Linux-based infrastructure, automation, networking, and platform engineering tasks that support reliable data workloads and development environments.
+- ☁️ I’m particularly interested in Data Engineering, Data Platforms, DataOps, cloud infrastructure, distributed systems, and reliable production data pipelines.
 - 📫 How to reach me:
   - LinkedIn: [domikalen](https://www.linkedin.com/in/domikalen/)
   - Email: damir.alenov02@gmail.com
